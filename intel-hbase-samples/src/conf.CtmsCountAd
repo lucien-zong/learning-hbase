@@ -1,0 +1,8 @@
+hbase_address=tkpcjk01-11,tkpcjk01-12,tkpcjk01-13,tkpcjk01-14,tkpcjk01-15,tkpcjk01-16,tkpcjk01-17,tkpcjk01-18,tkpcjk01-19,tkpcjk01-20,tkpcjk01-21,tkpcjk01-22,tkpcjk01-23,tkpcjk01-24,tkpcjk01-25:2181:/hbase
+table=ctms_log
+hbase.rpc.timeout=120000
+KEY=f:source_center
+SELECT=rowcount#f:source_center
+columns=f:source_center
+action=rowcount
+interpreter=LongStr

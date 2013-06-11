@@ -1,0 +1,8 @@
+
+SourceCenterGBTest 统计一定时间内目标中心为 AD 的所有源中心的请求
+
+output 文件为50次测试输出结果，TaskDriver 用来运行此测试
+
+表中数据量为 336397时，平均运行一次耗时  3049 ms 
+
+

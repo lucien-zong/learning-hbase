@@ -1,0 +1,16 @@
+
+SourceCenterGBTest 用来查询所有源中心发送请求数，根据源中心分组，使用f1或f2可用来查询一定时间范围内数据
+
+使用 TaskDriver 来进行测试
+
+SourceCenterGBRunnerTest 中有两个FilterList：f1和f2，f1和f2均用来指定时间范围用来作为查询条件
+使用f1会返回表中少部分数据，使用f2会返回表中大部分数据
+
+output_more 文件为使用FilterList f2 时的50次测试输出结果,平均时间： 2557 ms
+
+output_less 文件为使用FilterList f1 时的50次测试输出结果,平均时间： 2329 ms
+
+output_less 文件为不使用FilterList时的50次测试输出结果,平均时间： 1884 ms
+
+
+

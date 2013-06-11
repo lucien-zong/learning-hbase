@@ -1,0 +1,800 @@
+
+=======================    TEST  1    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3193 ms] --> 0(h):0(m):3(s).193(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  2    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2319 ms] --> 0(h):0(m):2(s).319(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  3    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2844 ms] --> 0(h):0(m):2(s).844(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  4    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2190 ms] --> 0(h):0(m):2(s).190(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  5    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[1782 ms] --> 0(h):0(m):1(s).782(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  6    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3171 ms] --> 0(h):0(m):3(s).171(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  7    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2164 ms] --> 0(h):0(m):2(s).164(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  8    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2562 ms] --> 0(h):0(m):2(s).562(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  9    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[5477 ms] --> 0(h):0(m):5(s).477(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  10    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2417 ms] --> 0(h):0(m):2(s).417(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  11    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[5592 ms] --> 0(h):0(m):5(s).592(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  12    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2681 ms] --> 0(h):0(m):2(s).681(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  13    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2326 ms] --> 0(h):0(m):2(s).326(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  14    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3141 ms] --> 0(h):0(m):3(s).141(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  15    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2889 ms] --> 0(h):0(m):2(s).889(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  16    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2636 ms] --> 0(h):0(m):2(s).636(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  17    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[7995 ms] --> 0(h):0(m):7(s).995(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  18    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2920 ms] --> 0(h):0(m):2(s).920(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336397
+
+=======================    TEST  19    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[5377 ms] --> 0(h):0(m):5(s).377(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  20    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2912 ms] --> 0(h):0(m):2(s).912(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  21    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3039 ms] --> 0(h):0(m):3(s).39(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  22    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2536 ms] --> 0(h):0(m):2(s).536(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  23    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2895 ms] --> 0(h):0(m):2(s).895(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  24    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2632 ms] --> 0(h):0(m):2(s).632(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  25    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3033 ms] --> 0(h):0(m):3(s).33(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  26    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2655 ms] --> 0(h):0(m):2(s).655(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  27    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3158 ms] --> 0(h):0(m):3(s).158(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  28    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2336 ms] --> 0(h):0(m):2(s).336(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  29    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2601 ms] --> 0(h):0(m):2(s).601(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  30    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2394 ms] --> 0(h):0(m):2(s).394(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  31    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2358 ms] --> 0(h):0(m):2(s).358(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  32    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2290 ms] --> 0(h):0(m):2(s).290(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  33    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2882 ms] --> 0(h):0(m):2(s).882(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  34    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3515 ms] --> 0(h):0(m):3(s).515(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  35    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2962 ms] --> 0(h):0(m):2(s).962(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  36    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2980 ms] --> 0(h):0(m):2(s).980(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  37    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2775 ms] --> 0(h):0(m):2(s).775(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  38    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3260 ms] --> 0(h):0(m):3(s).260(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  39    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2494 ms] --> 0(h):0(m):2(s).494(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  40    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3517 ms] --> 0(h):0(m):3(s).517(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  41    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3679 ms] --> 0(h):0(m):3(s).679(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  42    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2531 ms] --> 0(h):0(m):2(s).531(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  43    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2245 ms] --> 0(h):0(m):2(s).245(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  44    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2805 ms] --> 0(h):0(m):2(s).805(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  45    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3433 ms] --> 0(h):0(m):3(s).433(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  46    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2173 ms] --> 0(h):0(m):2(s).173(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  47    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[4567 ms] --> 0(h):0(m):4(s).567(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  48    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2775 ms] --> 0(h):0(m):2(s).775(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  49    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[3043 ms] --> 0(h):0(m):3(s).43(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420
+
+=======================    TEST  50    =======================
+	目标中心为AD的统计结果：
+
+		源中心		数量
+		AD		219
+		G1		1
+		H5		1509
+		K1		3
+		M1		2
+		P1		2
+
+++  [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.CtmsCountAd] 
+++  查询耗时：[2337 ms] --> 0(h):0(m):2(s).337(ms) ++
+++  返回数据总量： 1736
+++  表中数据总量： 336420

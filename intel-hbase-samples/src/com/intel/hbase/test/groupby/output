@@ -1,0 +1,24 @@
+E:\Users\embracesource\workspace1\Intel_1\.
+-- Output groupby result START --
+	rowcount(family:longStr2)
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+		1
+-- Output groupby result END --
+++ Time cost for GroupBy [config -> E:\Users\embracesource\workspace1\Intel_1\src\conf.gb]: [2924 ms] --> 0(h):0(m):2(s).924(ms) ++
+
+
+
+
+
+
+
+
+
